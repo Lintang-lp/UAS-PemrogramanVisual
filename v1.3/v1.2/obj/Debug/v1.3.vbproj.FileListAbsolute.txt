@@ -1,0 +1,67 @@
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\v1._3.Awal_Admin.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\v1._3.Awal_User.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\v1._3.Transaksi.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\v1._3.Login.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\v1._3.Resources.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\v1._3.Riwayat.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\v1.3.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.Dashboard_Admin.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.Dashboard_Kasir.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.K_BuatMember.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.K_PemesananTiket.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.Login.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.Resources.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1.3.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.A_ManajemenFilm.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.A_ManajemenStudio.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.A_ListMember.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.A_RiwayatTransaksi.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.K_BuatMember_List_.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1.3.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\RdlCompile.cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\RdlCompile.compiled
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.Z_CetakTransaksi.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.A_BuatMember.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.Z_CetakMember.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.Z_CetakJudulFilm.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.Z_CetakStudio.resources
+D:\Kuliah\semester 4\kamis\01. Pemrograman Visual\UAS\v1.3\v1.2\obj\Debug\v1._3.K_PemesananTiketDetail.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\bin\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1.3.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.A_BuatMember.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.A_ListMember.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.A_ManajemenStudio.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.A_RiwayatTransaksi.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.Dashboard_Admin.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.Dashboard_Kasir.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.K_BuatMember.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.K_BuatMember_List_.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.K_PemesananTiket.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.K_PemesananTiketDetail.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.Login.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.Resources.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.A_ManajemenFilm.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.Z_CetakJudulFilm.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.Z_CetakMember.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.Z_CetakStudio.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1._3.Z_CetakTransaksi.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\v1.3.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\RdlCompile.cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UAS\arsip\v1.3\v1.2\obj\Debug\RdlCompile.compiled

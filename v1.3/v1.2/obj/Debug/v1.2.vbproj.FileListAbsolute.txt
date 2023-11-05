@@ -1,0 +1,15 @@
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\v1._2.Resources.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\v1.2.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\v1._2.Awal.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\v1._2.Form1.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\v1._2.Riwayat.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\v1._2.Login.resources
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\bin\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\bin\Debug\Pemesanan Tiket Bioskop.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\bin\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.2\v1.2\obj\Debug\Pemesanan Tiket Bioskop.pdb
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.exe
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.xml
+D:\Kuliah\Semester 4\kamis\01. Pemrograman Visual\UTS\v1.3\v1.2\obj\Debug\Pemesanan Tiket Bioskop.pdb
